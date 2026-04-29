@@ -45,10 +45,6 @@ A full-stack college management system combining modern web technology with Web3
 - Badge system: Top Contributor, Active Member, Event Enthusiast, Helpful Soul, Club Leader
 - Contribution leaderboard
 
-### 🔗 Web3 / Blockchain (Bonus)
-- Connect MetaMask wallet
-- Mint achievement badges as Soulbound NFTs (ERC-721, non-transferable)
-- On-chain credential verification via `CampusCredential.sol`
 
 ## Quick Start
 
