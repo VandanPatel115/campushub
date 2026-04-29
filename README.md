@@ -9,7 +9,6 @@ A full-stack college management system combining modern web technology with Web3
 | Frontend | React 18, React Router v6, Vite |
 | Backend | Node.js, Express.js |
 | Database | PostgreSQL |
-| Web3 | Ethers.js v6, Solidity 0.8.20, Hardhat |
 | Auth | JWT + bcrypt |
 | File Upload | Multer |
 
