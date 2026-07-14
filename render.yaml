@@ -3,6 +3,7 @@ services:
     name: campushub-api
     runtime: node
     rootDir: server
+    plan: free
     buildCommand: npm install
     startCommand: npm start
     healthCheckPath: /api/health
